@@ -6,7 +6,7 @@ setup(
     version='0.0.1',
     author='andre fonseca',
     author_email='andreffonseca@msn.com',
-    install_requires=['openai', 'langchain', 'streamlit', 'python-dotenv','PyPDF2', 'transformers'],
+    install_requires=['openai', 'langchain', 'streamlit', 'python-dotenv','PyPDF2', 'transformers', 'torch'],
     packages=find_packages()
 )
     

@@ -3,7 +3,7 @@ langchain
 streamlit
 python-dotenv
 PyPDF
-transformersS
+transformers
 torch
 
 -e .
